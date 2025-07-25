@@ -48,4 +48,8 @@
 ### **4. // USER INPUT //**
 
 *   **[USER PROFILE & SYMPTOMS]:** 
-{ "age": 45, "gender": "male", "context": "prolonged sitting", "symptoms": ["knee pain", "pain in right leg", "pain on inside of knee", "pain in middle of buttocks"] }
+{  "age": 45, 
+   "gender": "male", 
+   "context": "prolonged sitting", 
+   "symptoms": ["knee pain", "pain in right leg", "pain on inside of knee", "pain in middle of buttocks"] 
+}
